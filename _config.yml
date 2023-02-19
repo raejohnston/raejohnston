@@ -15,7 +15,7 @@ title: Rachel Johnston
 # Your name to show in the footer
 author: Rachel Johnston
 
-baseurl: "raejohnston.github.io"
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
@@ -23,7 +23,7 @@ baseurl: "raejohnston.github.io"
 navbar-links:
   About Me: "aboutme"
   Work: 
-  - Content design: "posts/contentdesign"
+  - Content design: "contentdesign"
   - UX writing: "uxwriting"
   
 ################
