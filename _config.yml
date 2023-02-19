@@ -21,7 +21,9 @@ author: Rachel Johnston
 
 navbar-links:
   About Me: "aboutme"
-  Work: "work"
+  Work: 
+  - Content design: "contentdesign"
+  - UX writing: "uxwriting"
 ################
 # --- Logo --- #
 ################
