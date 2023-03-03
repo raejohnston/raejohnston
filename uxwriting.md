@@ -4,5 +4,5 @@ Title: UX writing
 ---
 ## UI copy 
 ## Guided tours
-{% Video UAdhlivevideo.mp4 500 400 %}
+{% video UAdhlivevideo.mp4 500 400 %}
 
