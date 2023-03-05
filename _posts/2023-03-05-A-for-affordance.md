@@ -1,8 +1,6 @@
 ---
 Layout: post
 ---
-# A-Z of UX: A is for Affordance 
- 
 An affordance is a design characteristic that suggests to the user how a particular element might be used. Affordances are everywhere in the physical world – for example, when you approach a door the placement of the hinges and the shape of the handle help you to guess whether you need to pull or push. The term ‘affordance’ was coined, or at least popularised, by Donald Norman in his book The design of everyday things.
 
 They’re also often misplaced – how many times have you pulled at a door because the handle looked ‘pull-y’?  The phenomenon is so common that there’s a whole subreddit devoted to ‘Norman Doors’.
