@@ -7,7 +7,7 @@ An affordance is a design characteristic that suggests to the user how a particu
 
 They’re also often misplaced – how many times have you pulled at a door because the handle looked ‘pull-y’?  The phenomenon is so common that there’s a whole subreddit devoted to ‘Norman Doors’.
 
-![alt text](image.jpg)
+![Baffling door handle](normandoor.jpg)
 
 Thanks to r/normandoors for this particularly striking example.
 
