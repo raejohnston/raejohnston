@@ -1,6 +1,7 @@
 ---
-Layout: post
-Title: ABC of UX - D is for ‘Design of Everyday Things’ 
+layout: post
+title: ABC of UX
+subtitle: D is for ‘Design of Everyday Things’ 
 ---
  While the man himself has been the subject of online controversy recently, Don Norman’s book launched thousands of UX careers and is still relevant today.  
 
