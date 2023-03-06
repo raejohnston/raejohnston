@@ -11,3 +11,4 @@ readability, especially for older motorists. But as well as the font itself, the
 sentence case because study after study confirms that it’s quicker and easier to read. 
 If you’ve worked with anyone on our UX writing team you’ll know we’re big advocates of 
 sentence case – and now you know why!
+*From a series of UX articles I wrote for a company newsletter. Used with permission*
