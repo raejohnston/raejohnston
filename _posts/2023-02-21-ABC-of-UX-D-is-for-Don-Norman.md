@@ -1,9 +1,8 @@
 ---
-Layout:post
+Layout: post
+Title: ABC of UX - D is for ‘Design of Everyday Things’ 
 ---
-D is for ‘Design of Everyday things’ 
- 
-While the man himself has been the subject of online controversy recently, Don Norman’s book launched thousands of UX careers and is still relevant today.  
+ While the man himself has been the subject of online controversy recently, Don Norman’s book launched thousands of UX careers and is still relevant today.  
 
 It’s an accessible read, because Norman uses examples not from software, but from physical items we use every day. Have you ever accidentally scalded yourself in an unfamiliar hotel shower, lit the wrong gas burner in the kitchen you’ve owned for years, or pushed a door that was meant to be pulled? You’ve been the victim of a misaligned mental model, a dodgy affordance, or a clumsy metaphor – design mistakes that we still see in the world of software all the time. 
  
