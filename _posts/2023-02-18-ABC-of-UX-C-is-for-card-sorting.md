@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ABC of UX - C is for card sorting
+title: ABC of UX
+subtitle: C is for Card Sorting 
 ---
 Card sorting is a user experience testing methodology that we use to understand how users think about related concepts and terms. It’s often used to define the structure of a site or service, but it can also help us to understand user journeys or workflows. 
 In a card sorting session, we ask the participant to group concepts together in ways that are meaningful to them. For example, for a car insurance website, users may think about how criteria such as, vehicle type, mileage, no-claims status, and so on, relate to each other. 
