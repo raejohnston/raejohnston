@@ -11,4 +11,4 @@ There are two kinds of card sorts:
 - Closed, where the researcher defines the terms in advance. 
 You can do a card sort using only a pen and paper, Miro, or any kind of whiteboarding software, so it’s a low-cost option to use early in the process before wireframes or any kind of coding begins. However, with a large group of participants, it can be challenging to collate the results in a way that is actionable and meaningful.  This is where digital tools can help – our upcomin user testing platform, UserZoom, has a card sort analysis feature. 
 
-You can find out more about card sorting here.
+
