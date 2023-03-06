@@ -11,7 +11,7 @@ Here's an example of a guided tour created using Appcues.
 Here are some more examples of tours that I build using Newired. 
 ![Newired guided tour](/assets/img/newired2.png)
 ![Newired guided tour](/assets/img/Newired1.png)
-![Newired guided tour](/assets/img/TakeaTourmenu2.png)
+![Newired guided tour](/assets/img/TakeaTourmenu2 .png)
 
 ### How digital adoption platforms work 
 
