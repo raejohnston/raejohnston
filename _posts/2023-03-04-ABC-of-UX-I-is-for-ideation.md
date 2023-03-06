@@ -1,7 +1,7 @@
 ---
-Layout: post
-Title: ABC of UX
-Subtitle: I is for Ideation
+layout: post
+title: ABC of UX
+subtitle: I is for Ideation
 ---
 Ideation is the process of generating ideas – ideally without getting too much into the practical details. 
 It’s a common next step after a round of usability research, where user pain points have been identified and the question is how best to address them, but you may also ideate around product enhancements and new features. 
