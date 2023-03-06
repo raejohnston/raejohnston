@@ -5,8 +5,6 @@ Title: ABC of UX - G is for Guerilla Testing
 
 Guerilla testing (also known as hallway testing) is a quick, simple way of validating UX decisions by asking colleagues or members of the public. 
 
- 
-
 If you have a relatively simple design decision to make, chatting to 8-10 participants can often give you enough insights to move forward. Like the picture above, we see an attempt to collect real-time research by asking users to order coffee using an app called Pandora. It’s not a substitute for more extensive research protocols, but it’s lightweight and cheap.  
 Guerilla research is great when:
 - The hypothesis or scenario you want to test is simple. 
