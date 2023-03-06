@@ -1,5 +1,6 @@
 ---
 Layout:post
+Title: Bad design is bad business
 ---
 IBM’s James Watson famously said ‘Good design is good business’ – well, it turns out the
 reverse is also true.
