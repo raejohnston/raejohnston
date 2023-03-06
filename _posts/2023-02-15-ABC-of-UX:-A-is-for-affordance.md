@@ -16,4 +16,5 @@ UX expert Steve Krug says it best: “As a user, I should never have to devote a
 
 Get it right and your interface is more learnable, get it wrong and users will make frustrating mistakes.
 
-*Taken from the UX newsletter I wrote for a data science company. Reproduced with permission* 
+*From a series of UX articles I wrote for a company newsletter. Used with permission*
+
