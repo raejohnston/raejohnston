@@ -1,6 +1,7 @@
 ---
 Layout: post
-Title: ABC of UX - G is for Guerilla Testing
+Title: ABC of UX
+Subtitle: G is for Guerilla Testing
 ---
 
 Guerilla testing (also known as hallway testing) is a quick, simple way of validating UX decisions by asking colleagues or members of the public. 
