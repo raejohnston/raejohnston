@@ -3,8 +3,11 @@ layout: page
 title: In-product guided tours and Digital Adoption Platforms (DAP) 
 date: 28/04/2023
 ---
-Introduction
-Digital Adoption Platforms (DAPs) are software solutions that provide interactive guidance and support to end-users while using a web application or software product. They help users learn and adopt new features, improve user experience, and reduce user churn. DAPs are becoming increasingly popular due to their ability to enhance user engagement, improve product adoption, and reduce support costs. This essay will explore the pros, cons, and limitations of DAPs, such as Newired, Pendo, or Appcues. Additionally, we will discuss how to choose a DAP and what to know before using it in production.
+In-product guided tours and digital adoption platforms
+If you've downloaded an app recently, you've probably seen some kind of guided tour to help you get started. They're a great way to bring assistance directly to the user, possibly before they even realise they need it.  
+
+H1 Digital Adoption Platforms
+Digital Adoption Platforms (DAPs) are software solutions that provide interactive guidance and support to users while using a web application or software product. They are typically a low code solution that give writers the ability to add content directly to the UI, without it needing to be coded. 
 
 Pros
 Enhanced User Experience: DAPs provide a better user experience by guiding users through complex workflows and features. By providing interactive walkthroughs and tutorials, DAPs help users learn and adopt new features quickly and efficiently.
