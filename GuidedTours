@@ -1,0 +1,54 @@
+---
+layout: page
+title: In-product guided tours and Digital Adoption Platforms (DAP) 
+date: 28/04/2023
+---
+Introduction
+Digital Adoption Platforms (DAPs) are software solutions that provide interactive guidance and support to end-users while using a web application or software product. They help users learn and adopt new features, improve user experience, and reduce user churn. DAPs are becoming increasingly popular due to their ability to enhance user engagement, improve product adoption, and reduce support costs. This essay will explore the pros, cons, and limitations of DAPs, such as Newired, Pendo, or Appcues. Additionally, we will discuss how to choose a DAP and what to know before using it in production.
+
+Pros
+Enhanced User Experience: DAPs provide a better user experience by guiding users through complex workflows and features. By providing interactive walkthroughs and tutorials, DAPs help users learn and adopt new features quickly and efficiently.
+
+Reduced Support Costs: By providing interactive guidance and support to users, DAPs reduce the need for expensive support staff. Additionally, by reducing user churn, DAPs can help companies save money on marketing and user acquisition costs.
+
+Improved Product Adoption: DAPs help users quickly understand and use new features, leading to higher product adoption rates. This results in increased revenue and customer satisfaction.
+
+User Feedback: DAPs provide a way for users to give feedback on the product and the user experience. This feedback can be used to improve the product and make it more user-friendly.
+
+Cons
+Cost: DAPs can be expensive, especially for smaller companies. Additionally, the cost can increase as the number of users and features grows.
+
+Integration: DAPs may require integration with existing systems and software, which can be complex and time-consuming.
+
+Customization: Customizing DAPs to match the company's branding and user experience can be challenging and may require additional resources.
+
+Learning Curve: DAPs require a learning curve for both end-users and administrators. This can lead to frustration and resistance from users and additional training for administrators.
+
+Limitations
+Limited Support for Complex Workflows: DAPs may struggle to support complex workflows or processes that require manual input or involve multiple steps.
+
+Limited Support for Mobile Apps: Some DAPs may not support mobile apps or may have limited support, making it difficult to provide consistent user experience across different devices.
+
+Limited Support for Non-Web Applications: DAPs are designed for web applications and may not support desktop applications or other software.
+
+Limited Analytics: DAPs may have limited analytics capabilities, making it difficult to track user behavior and identify areas for improvement.
+
+Choosing a DAP
+When choosing a DAP, there are several factors to consider:
+
+Ease of Use: The DAP should be easy to use for both end-users and administrators. The interface should be intuitive, and the software should be easy to configure and customize.
+
+Feature Set: The DAP should support the features that are most important to the company, such as guided tours, tooltips, and in-app messaging.
+
+Integration: The DAP should integrate easily with existing systems and software, such as CRMs, CMSs, and marketing automation software.
+
+Customization: The DAP should be easily customizable to match the company's branding and user experience.
+
+Support: The DAP should provide excellent support, including documentation, tutorials, and customer service.
+
+What to Know Before Using a DAP in Production
+Before using a DAP in production, there are several things to consider:
+
+User Experience: The DAP should provide an excellent user experience that enhances the product and does not detract from it.
+
+User Feedback: User feedback should be solicited and used to improve
