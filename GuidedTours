@@ -4,28 +4,28 @@ title: In-product guided tours and Digital Adoption Platforms (DAP)
 date: 28/04/2023
 ---
 In-product guided tours and digital adoption platforms
-If you've downloaded an app recently, you've probably seen some kind of guided tour to help you get started. They're a great way to bring assistance directly to the user, possibly before they even realise they need it.  
+If you've downloaded an app recently, you've probably seen some kind of guided tour to help you get started. They're a great way to bring assistance directly to the user, without asking them to interrupt the task at hand and potentially pre-empting support issues. If this sounds useful, you may want to consider a Digital Adoption Platform. 
+# What is a Digital Adoption Platform?
+A Digital Adoption Platforms (DAP) is a software solution - that provides interactive guidance and support to users while using a web application or software product. DAPs are typically low code solution that give writers the ability to add content directly to the UI, without needing a lot of development work.  
+# How Digital Adoption Platforms work 
+The principle of most DAPs is broadly the same. You add a snippet of Javascript to the header of your application which allows the DAP to scan what's on the page and call relevant content. Different solutions have different algorithmic approaches to 'seeing' the page, and these can be significant so if you're considering investing in one, it's important to evalute the options thoroughly. A typical DAP consists of three main components:
+- An editor: used by content designers to develop and test the tours. 
+- A management console, to organise and publish your tours, and manage translations. 
+- An analytics console, to understand how users are interacting with tours and drive improvements. 
+# Building a guided tour 
+One of the benefits of a DAP is that it is quick, easy and intuitive for an author to design and build tours. You can use the editor to browse around the page, identifying elements that you might want to annotate. You'll need to think about:
+- How the tour moves from one step to another. You can use a series of timed steps (frustrating for fast readers), or ask the user to click a button or complete a field, or you may just want a 'next' button that the user can click when they are ready to move on. You can use these in combination, but too many different step transitions can be disorienting for the user. 
+The length and structure of each tour. If you have too many steps, users may get bored and drop off. 
+# Controlling the look and feel 
+You'll want your guided tour to look part of your application - that means consistent colour, typeface, button styles and so on. Different DAP vendors have a different approach to this depending on their commercial model. You may need to pay for some professional services to get everything looking as it should, but some vendors give you access to the solution's CSS files so that you can edit it yourself. 
+# Challenges 
+## Potential for direct interaction with production code 
+The ease with which a DAP, once implemented allows you to place content in production environments is a blessing and a curse, and it's something that a lot of solutions, assuming use within relatively simple applications, don't always seem to have factored in. 
 
-H1 Digital Adoption Platforms
-Digital Adoption Platforms (DAPs) are software solutions that provide interactive guidance and support to users while using a web application or software product. They are typically a low code solution that give writers the ability to add content directly to the UI, without it needing to be coded. 
 
-Pros
-Enhanced User Experience: DAPs provide a better user experience by guiding users through complex workflows and features. By providing interactive walkthroughs and tutorials, DAPs help users learn and adopt new features quickly and efficiently.
 
-Reduced Support Costs: By providing interactive guidance and support to users, DAPs reduce the need for expensive support staff. Additionally, by reducing user churn, DAPs can help companies save money on marketing and user acquisition costs.
 
-Improved Product Adoption: DAPs help users quickly understand and use new features, leading to higher product adoption rates. This results in increased revenue and customer satisfaction.
 
-User Feedback: DAPs provide a way for users to give feedback on the product and the user experience. This feedback can be used to improve the product and make it more user-friendly.
-
-Cons
-Cost: DAPs can be expensive, especially for smaller companies. Additionally, the cost can increase as the number of users and features grows.
-
-Integration: DAPs may require integration with existing systems and software, which can be complex and time-consuming.
-
-Customization: Customizing DAPs to match the company's branding and user experience can be challenging and may require additional resources.
-
-Learning Curve: DAPs require a learning curve for both end-users and administrators. This can lead to frustration and resistance from users and additional training for administrators.
 
 Limitations
 Limited Support for Complex Workflows: DAPs may struggle to support complex workflows or processes that require manual input or involve multiple steps.
