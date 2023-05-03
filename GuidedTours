@@ -20,7 +20,7 @@ The length and structure of each tour. If you have too many steps, users may get
 You'll want your guided tour to look part of your application - that means consistent colour, typeface, button styles and so on. Different DAP vendors have a different approach to this depending on their commercial model. You may need to pay for some professional services to get everything looking as it should, but some vendors give you access to the solution's CSS files so that you can edit it yourself. 
 # Challenges 
 ## Potential for direct interaction with production code 
-The ease with which a DAP, once implemented allows you to place content in production environments is a blessing and a curse, and it's something that a lot of solutions, assuming use within relatively simple applications, don't always seem to have factored in. 
+The ease with which a DAP, once implemented allows you to place content in production environments is a blessing and a curse. Most solutions offer some kind of pre-publication check, but often, once you hit publish, that content is visible in production. It can  
 
 
 
